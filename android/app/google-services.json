@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756389037297",
+    "project_id": "mmbo-practical",
+    "storage_bucket": "mmbo-practical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756389037297:android:5495941be209f334d15550",
+        "android_client_info": {
+          "package_name": "com.example.mmbo_practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756389037297-liceihf7ttscfrlfnaqrqrj85hlv4qka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07E-DmKQ2igr2FsoJXc0kJxij1J42T94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756389037297-liceihf7ttscfrlfnaqrqrj85hlv4qka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
